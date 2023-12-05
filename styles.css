@@ -1,0 +1,17 @@
+.Resume{
+    text-align: center;
+    color:orange
+}
+body{
+    background-color: black;
+    border: 3px solid white;
+}
+#Opis{
+    text-align: center;
+    color: orange;
+    
+}
+.Judge{
+    text-align: center;
+    color: orange;
+}
